@@ -1,2 +1,2 @@
-# lassesarholz-stack.github.io
+# lassesarholz.github.io
 Foodspots-Koeln
